@@ -161,4 +161,8 @@ body {
     .features {
         margin: 0;
     }
+	
+	.team {
+		padding: 0 !important;
+	}
 }
